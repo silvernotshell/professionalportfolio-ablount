@@ -18,6 +18,6 @@ When I click on the images of the applications, then I am taken to that deployed
 
 When I resize the page or view the site on various screens and devices, then I am presented with a responsive layout that adapts to my viewport
 
-Screenshot: image
+Screenshot: ![portolioscreenshot](https://github.com/silvernotshell/professionalportfolio-ablount/assets/157558967/24e5e864-06b7-45ba-9f8b-01e6e480e7eb)
 
 Link:
