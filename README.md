@@ -19,5 +19,6 @@ When I click on the images of the applications, then I am taken to that deployed
 When I resize the page or view the site on various screens and devices, then I am presented with a responsive layout that adapts to my viewport
 
 Screenshot: 
+![image](https://github.com/silvernotshell/professionalportfolio-ablount/assets/157558967/e23e7937-b3a8-424e-b526-0793c5d97db0)
 
 Link: 
